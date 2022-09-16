@@ -1,0 +1,12 @@
+
+.dummy-element{
+    width: 160px;
+    background-color: red;
+
+    margin: 4px;
+    padding: 4px;
+    
+    &.enabled {
+        background-color: green;
+    }
+}
